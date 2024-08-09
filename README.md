@@ -1,5 +1,5 @@
 # start.ru-checker-log-pass
-start.ru checker log:pass
+start.ru checker log:pass на запросах
 
 
 Функционал:  
