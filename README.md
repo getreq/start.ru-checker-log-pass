@@ -3,6 +3,7 @@ start.ru checker log:pass
 
 
 Функционал:
+Решение капчи через [2captcha](https://2captcha.com/)
 Поддержка socks5 прокси ip:port:log:password
 Многопоточность
 Парс на платную подписку в аккаунте
