@@ -2,7 +2,6 @@ import base64
 import io
 import uuid
 
-import datetime
 from datetime import datetime
 from colorama import init, Fore, Style
 from config import *
@@ -11,8 +10,6 @@ import threading
 import queue
 
 import httpx
-
-
 
 init(autoreset=True)
 
