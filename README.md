@@ -1,6 +1,6 @@
 # start.ru-checker-log-pass
 start.ru checker log:pass на запросах
-ЧЕКЕР РАБОТАЕТ НА РЕШЕНИЕ КАПЧИ - https://anti-captcha.com/
+ЧЕКЕР РАБОТАЕТ НА РЕШЕНИЕ КАПЧИ - https://anti-captcha.com/  
 Инструкция по запуску:  
 1. Кидаем все файлы с этого репозитория в любую папку
 2. Вводим апи ключ anti-captcha и количество потоков   
